@@ -1,0 +1,13 @@
+{
+	"name": "minSlider",
+	"version": "0.0.1",
+	"scripts": {
+		"build": "babel src -d dist"
+	},
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-minify": "^0.4.3",
+		"babel-preset-env": "^1.7.0",
+		"babel-preset-minify": "^0.4.3"
+	}
+}
